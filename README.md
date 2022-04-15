@@ -10,3 +10,5 @@ For hypothesis testing concept i use income and education to see if there any re
 ```
 pandas, numpy, scipy.stats
 ```
+
+Link for google.collab [link](https://colab.research.google.com/drive/1VnN3UeqbmQkgESwdz-ajAB2v56L9vD_K)
