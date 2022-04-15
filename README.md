@@ -7,6 +7,6 @@ For hypothesis testing concept i use income and education to see if there any re
 
 ### Requirement
 
-'''
+"""
 pandas, numpy, scipy.stats
-'''
+"""
