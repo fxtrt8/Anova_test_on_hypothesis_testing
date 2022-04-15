@@ -5,7 +5,8 @@ With this article, lemme show you how to interpret a simple hypothesis testing c
 
 For hypothesis testing concept i use income and education to see if there any relations and also i use annova method with 5% alpha.
 
-###Requirement
+### Requirement
+
 '''
 pandas, numpy, scipy.stats
 '''
